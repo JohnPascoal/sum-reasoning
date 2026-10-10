@@ -44,7 +44,7 @@ You need a C++ compiler supporting C++98 or higher (e.g., `g++`, `clang++`) and 
 Clone the repository and compile using the provided Makefile (or manually compile source files):
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sum-reasoning.git
+git clone https://github.com/JohnPascoal/sum-reasoning.git
 cd sum-reasoning
 make
 ./sum_reasoning
